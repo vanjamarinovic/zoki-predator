@@ -1,0 +1,24 @@
+input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+html, body {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#login {
+	padding: 30%;
+	border: thin solid;
+}
+
+input.field {
+    width: 250px;
+}
+
+#message {
+	color: red;
+}
